@@ -1,7 +1,7 @@
 #include <allegro5/allegro.h>
 #include <stdio.h>
 
-int main(void) {
+int main2(void) {
     // 1. Inicializa o subsistema principal do Allegro
     if (!al_init()) {
         printf("Erro fatal: Falha ao inicializar o Allegro 5.\n");

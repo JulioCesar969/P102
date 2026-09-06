@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Monopoly.vcxproj" Id="b42a9ada-4f05-48d6-bfa1-f3f63b4541de" />
+</Solution>

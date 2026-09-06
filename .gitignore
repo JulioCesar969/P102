@@ -1,0 +1,12 @@
+﻿.vs/
+x64/
+Debug/
+Release/
+packages/
+**/packages/
+*.exe
+*.pdb
+*.ilk
+*.dll
+*.lib
+*.nupkg
